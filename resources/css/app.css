@@ -1,0 +1,8 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Importar estilos personalizados (mover public/css/style.css a resources/css/style.css) 
+@import './style.css';
+*/
